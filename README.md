@@ -1,4 +1,5 @@
 # Escape the Curse of the Temple - Game Companion
+<img title="icon" alt="Alt text" src="https://github.com/aerlux/EscapeGameCompanion/blob/main/img/icon-512x512.png?raw=true">
 
 This is a **game companion tool** designed to enhance your experience with *Escape the Curse of the Temple*! 🎲🏰
 
@@ -11,5 +12,13 @@ With this tool, you can **randomly generate game rounds** based on the parameter
 
 ## Why Use This?
 *Escape the Curse of the Temple* is all about speed and coordination. This companion takes care of the tedious setup process so you can focus on the thrill of the game!
+
+## Play now!
+
+Follow this link and you can just get ahead playing! :)
+
+https://aerlux.github.io/EscapeGameCompanion/
+
+
 
 ---
