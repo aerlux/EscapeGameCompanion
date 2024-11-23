@@ -1,0 +1,21 @@
+{
+  "name": "Escape Game Companion",
+  "short_name": "EscapeGame",
+  "description": "The ultimate companion for escape games, adding fun challenges and randomized events!",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#504C4A",
+  "theme_color": "#FFD700",
+  "icons": [
+    {
+      "src": "img/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "img/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
