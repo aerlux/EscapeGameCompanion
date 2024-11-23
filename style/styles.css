@@ -1,20 +1,19 @@
-
 @font-face {
-font-family: 'Birdgo';
-src: url('/style/Birdgo.otf') format('opentype');
+  font-family: 'Birdgo';
+  src: url('style/Birdgo.otf') format('opentype');
 }
 
 body {
-font-family: 'Birdgo', Arial, sans-serif;
-background-color: #504C4A;
-color: #F5E0C3;
-padding-top: 20px;
-margin: 0;
-width: 100%;
-height: 100vh;
-overflow-x: hidden;
-background-image: url('/img/background.png');
-background-repeat: repeat;
+  font-family: 'Birdgo', Arial, sans-serif;
+  background-color: #504C4A;
+  color: #F5E0C3;
+  padding-top: 20px;
+  margin: 0;
+  width: 100%;
+  height: 100vh;
+  overflow-x: hidden;
+  background-image: url('img/background.png');
+  background-repeat: repeat;
 }
 
 .container {
