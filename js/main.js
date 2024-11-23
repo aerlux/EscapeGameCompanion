@@ -1,3 +1,4 @@
+
 document.addEventListener('DOMContentLoaded', () => {
     const startButton = document.getElementById('startButton');
     const advancedButton = document.getElementById('advancedButton');
@@ -15,7 +16,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     function startGame() {
         playCount = 0;
-        startButton.disabled = true;
+        startButton.style.display = 'none';
         UI.showGameStatus();
         startupSound.currentTime = 0;
         startupSound.play();
@@ -41,7 +42,7 @@ document.addEventListener('DOMContentLoaded', () => {
         backgroundMusic.currentTime = 0;
         escapeSound.currentTime = 0;
         UI.hideGameStatus();
-        startButton.disabled = false;
+        startButton.style.display = 'block';
         alert('Game Over!');
     }
 
